@@ -20,21 +20,23 @@ Travel across a synchrotone as an **Hydrogen Atom**, thrown at the speed of ligh
 
 > Five Atoms evolutions implemented as both enemies and player states:
 
-| Symbol | Full Name | Description |
-------------------------------------
-| **H** | Hydrogene | |
-| **He** | Helium | |
-| **Li** | Litium | |
-| **Be** | Berillium | |
-| **B** | Borum | |
+| Symbol | Full Name | Electrons | Enemy Description |
+|--------|-----------|-----------| ..................|
+| **H** | *Hydrogene* | 1 | Base Enemy, nice and funny. Flows through the syncrothone not caring about anything, but shoots electrons when is bored, so never let the guard down. |
+| **He** | *Helium* | 2 | Posh like its noble gasses friends, lets its two electrons orbiting around as a reminder: don't touch it and it won't bother you. Touch it and the fault is yours! |
+| **Li** | *Litium* | 3 | Rude and lazy but as strong as a rock. It won't be easy taking it down, unless he drags itself off by boredom. |
+| **Be** | *Berillium* | 4 | |
+| **B** | *Borum* | 5 | |
 
 
-La chimica non è mai stata così divertente. 😅
+
 
 ## How to Win
 
 * Fun fact: there's no victory, only surviving!
 * Collect as much **Electronvolt Points** as you can by defeating other atoms and realeasing their energy through the synchrotone. **That's your call to glory**.
+
+> Chemistry is never been this fun.
 
 ## More
 
