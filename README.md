@@ -33,7 +33,7 @@ Travel across a synchrotone as an **Hydrogen Atom**, thrown at the speed of ligh
 * Fun fact: there's no victory, only surviving!
 * Collect as much **Electronvolt Points** as you can by defeating other atoms and realeasing their energy through the synchrotone. **That's your call to glory**.
 
-> Chemistry is never been this fun.
+> Chemistry is never been this fun!
 
 ## More
 
