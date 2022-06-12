@@ -22,11 +22,11 @@ Travel across a synchrotone as an **Hydrogen Atom**, thrown at the speed of ligh
 
 | Symbol | Full Name | Electrons | Type | Enemy Description |
 |--------|-----------|-----------| -----|-------------------|
-| **H** | *Hydrogene* | 1 | Shooter |Base Enemy, nice and funny. Hydrogene flows through the syncrothone not caring about anything, but shoots electrons when is bored, so never let the guard down. |
+| **H** | *Hydrogen* | 1 | Shooter |Base Enemy, nice and funny. Hydrogen flows through the syncrothone not caring about anything, but shoots electrons when is bored, so never let the guard down. |
 | **He** | *Helium* | 2 | Defender | Posh like its noble gasses friends, Helium lets its two electrons orbiting around as a simple reminder: stay away and it won't bother you. Mess it up and the fault is yours! |
-| **Li** | *Litium* | 3 | Shooter | Rude and lazy but as strong as a rock. It won't be easy taking Litium down, unless he drags itself off over boredom. |
+| **Li** | *Lithium* | 3 | Shooter | Rude and lazy but as strong as a rock. It won't be easy taking Lithium down, unless he drags itself off over boredom. |
 | **Be** | *Berillium* | 4 | Assault Shooter | Not a quiet buddy to deal with. Fluster and anxiety make Beriullium a bit nervous. The secret is clear as it seems: just run faster. |
-| **B** | *Borum* | 5 | Defender| This guy just overthinks a lot! All that bullshit about electronegativity, ionic bonds, you know. Just leave Borum its Electrons and it will flow away like nothing happened. |
+| **B** | *Boron* | 5 | Defender| This guy just overthinks a lot! All that bullshit about electronegativity, ionic bonds, you know. Just leave Boron its Electrons and it will flow away like nothing happened. |
 
 ## How to Win
 
