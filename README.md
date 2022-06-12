@@ -1,6 +1,6 @@
 # ProjectAtomos
 
-**Atomos** is a 2D shoot 'em up developed with [Phaser](https://phaser.io/) Javascript engine.
+**Atomos** is a 2D shoot 'em up for web developed with [Phaser](https://phaser.io/) Javascript engine.
 
 ## Description
 
