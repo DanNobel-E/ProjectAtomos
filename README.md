@@ -2,9 +2,13 @@
 
 **Atomos** is a 2D shoot 'em up for web, developed with [Phaser](https://phaser.io/) Javascript engine.
 
+![Film e TV 18_06_2022 15_00_21](https://user-images.githubusercontent.com/60443583/174439091-1c68e731-a6cd-4e5c-b941-4671a9cf7f5b.png)
+
 ## Description
 
 Travel across a synchrotone as an **Hydrogen Atom**, thrown at the speed of light against billions of ions and particles.
+
+![Film e TV 18_06_2022 15_01_43](https://user-images.githubusercontent.com/60443583/174439094-f1de8e67-df2f-49a1-87e2-9a7f55863051.png)
 
 ## Gameplay
 
@@ -13,10 +17,18 @@ Travel across a synchrotone as an **Hydrogen Atom**, thrown at the speed of ligh
 * **Warning**: as *Atoms*, your enemies will do the same! An uncharged enemy can absorb your **Electron** until its maximum capacity is reached. Then shoot just one more Electron to get another chance of breaking it up.
 * Once again, the same goes for you: if your **Electrons** storage is full, next hit will make you lose a **Neutron** (*blue*). All three **Neutrons** gone and the game is lost!
 
+
+https://user-images.githubusercontent.com/60443583/174439297-1b6680fd-cc66-4f32-8014-314844e7222a.mp4
+
+
 ## Grow and Evolve
 
 * Once a while a **Gluon** (*red*) will show off. Take it as soon as you can! When your Atom is full of energy run filling your Electrons storage. Then just throw yourself into an Atom of your same Element and look what happens: your **Hydrogen** has evolved into **Helium**!
 * Evolving surely has its benefits. Helium atoms can take two Electrons at once... and you can grow even more! Each step will increase your storage of one Electron. So the game is set: fill your Electron storage, find a Gluon and scale the periodic table. 
+
+
+https://user-images.githubusercontent.com/60443583/174439318-137f9092-29f1-4b24-a254-025a192824ae.mp4
+
 
 > Five Atoms evolutions implemented as both enemies and player states:
 
